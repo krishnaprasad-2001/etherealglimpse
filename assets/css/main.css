@@ -798,6 +798,16 @@ section,
 /*--------------------------------------------------------------
 # Portfolio Section
 --------------------------------------------------------------*/
+.portfolio {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.portfolio .container {
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
 .portfolio .portfolio-filters {
   padding: 0;
   margin: 0 auto 20px auto;
