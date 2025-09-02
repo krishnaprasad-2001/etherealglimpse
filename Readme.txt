@@ -1,6 +1,8 @@
-Thanks for downloading this template!
+This is krishnaprasads personal website. 
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
+I made thsi website using a template from the URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
+
+
+
